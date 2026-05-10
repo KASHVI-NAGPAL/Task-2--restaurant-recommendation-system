@@ -1,3 +1,4 @@
+ Task 2-Restaurant-Recommendation-System
 Restaurant Recommendation System
 
 A Machine Learning-based Restaurant Recommendation System developed using Python and Content-Based Filtering techniques. This project recommends restaurants to users based on their preferences such as cuisine type and price range.
